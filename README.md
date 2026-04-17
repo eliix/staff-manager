@@ -62,7 +62,7 @@ Implementarlo con pytest
 - testing de endpoints
 - testing de lógica
 - manejo de DB en tests
-- 
+  
 #### CRUD de empleados
 Crear empleado
 Obtener empleado
