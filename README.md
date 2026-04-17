@@ -72,7 +72,3 @@ Implementarlo con pytest
 - Login correcto
 - Login incorrecto
 - Acceso a endpoint protegido
-#### Endpoints extra
-- `/employees/salary-average`
-- `/employees/salary-by-role`
-- `/employees/{id}/seniority`
