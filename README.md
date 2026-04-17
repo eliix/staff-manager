@@ -64,15 +64,15 @@ Implementarlo con pytest
 - manejo de DB en tests
   
 #### CRUD de empleados
-Crear empleado
-Obtener empleado
-Actualizar
-Eliminar
+- Crear empleado
+- Obtener empleado
+- Actualizar
+- Eliminar
 #### Auth (JWT)
-Login correcto
-Login incorrecto
-Acceso a endpoint protegido
+- Login correcto
+- Login incorrecto
+- Acceso a endpoint protegido
 #### Endpoints extra
-/employees/salary-average
-/employees/salary-by-role
-/employees/{id}/seniority
+- `/employees/salary-average`
+- `/employees/salary-by-role`
+- `/employees/{id}/seniority`
