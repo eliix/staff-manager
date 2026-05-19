@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Date, Float, Integer, String
 
-from database import Base
+from app.database import Base
 
 
 class Employee(Base):
